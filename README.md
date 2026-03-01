@@ -9,7 +9,7 @@
     <img alt="HF Model: ReconVLA" src="https://img.shields.io/badge/ReconVLA-yellow?label=Model&color=ffd400" height="25" />
 </a>
 <a href="https://github.com/OpenHelix-Team/ReconVLA/issues/14" target="_blank">
-    <img alt="Wechat" src="https://img.shields.io/badge/Wechat-green?logo=wechat&label=UD-VLA" height="25" />
+    <img alt="Wechat" src="https://img.shields.io/badge/Wechat-green?logo=wechat&label=ReconVLA" height="25" />
 </a>
 
 We present ReconVLA, an implicit grounding paradigm for Vision-Language-Action models that reconstructs gaze regions to focus visual attention, achieving precise manipulation and strong generalization with only 100k+ trajectories. Key contributions include:

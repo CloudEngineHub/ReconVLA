@@ -193,7 +193,7 @@ Below is an explanation of the most commonly adjusted parameters:
 
 ## Contact
 
-For further discussion and collaboration, please feel free to contact us via WeChat:
+For further discussion and collaboration, please feel free to contact us via WeChat or [WeChat-group](https://github.com/OpenHelix-Team/ReconVLA/issues/14):
 
 <div align="left">
 <table>
